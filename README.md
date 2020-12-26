@@ -3,7 +3,7 @@
 ### Welcome to my cosy repos page!
 - ⚡ Fun fact: Machine learning break stata =P 
 
-## Developer in computer vision / telemetry (GPS) fields
+## Data Sciense and analysis
 
 - 💼 I’m currently studying in yandex - Data Science
 - 🥅 My current goals: improve hobby projects quality and contribute to open source, learn Python programming language
