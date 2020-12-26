@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LdDl" width="22 px" src="https://t.me/DanySinitsing" />][telegram]
+[<img align="left" alt="LdDl" width="22 px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/telegram.svg" />][telegram]
 
 <br />
 
