@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact: Machine learning to "brute force" a stata =P 
 
-## Data science and analysis
+## Data science
 
 - 💼 I’m currently studying in yandex - Data Science
 - 🥅 My current goals: improve hobby projects quality and contribute to open source, learn Python programming language
