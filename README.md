@@ -27,7 +27,5 @@
 
 ---
 
-<img align="left" alt="Daniil Sinitsin's Github Stats" src="https://github-readme-stats.lddl.vercel.app/api?username=DaniilSinitsin&show_icons=true&hide_border=true" />
-
 [telegram]: https://t.me/DanySinitsin
 
