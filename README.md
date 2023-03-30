@@ -4,9 +4,10 @@
 
 ## Data science
 
-- 💼 I’m currently studying in yandex - Data Science
+- 💼 I’m finished studying in Yandex - Data Science
+- 💼 I’m currently working as Product Analyst at Mostbet.com and finished studying in Yandex - Data Science
 - 🥅 My current goals: improve hobby projects quality and contribute to open source, learn Python programming language
-- 📖 Interests: applied mathematics, statistics, machine learning, neural networks, finansial analysis
+- 📖 Interests: applied mathematics, statistics, machine learning, neural networks, product analysis
 
 ### Connect with me:
 
